@@ -1,0 +1,15 @@
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WindowsAuthenticationWithAutoit.exe.config
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\AutoItX3.dll
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\AutoItX3_x64.dll
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\IEDriverServer.exe
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WindowsAuthenticationWithAutoit.exe
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WindowsAuthenticationWithAutoit.pdb
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\AutoItX3.Assembly.dll
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WebDriver.dll
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WebDriver.Support.dll
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\AutoItX3.Assembly.xml
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WebDriver.xml
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\bin\Debug\WebDriver.Support.xml
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\obj\Debug\WindowsAuthenticationWithAutoit.csprojResolveAssemblyReference.cache
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\obj\Debug\WindowsAuthenticationWithAutoit.exe
+c:\users\rohit\documents\visual studio 2015\Projects\WindowsAuthenticationWithAutoit\WindowsAuthenticationWithAutoit\obj\Debug\WindowsAuthenticationWithAutoit.pdb
